@@ -10,6 +10,7 @@ Examples files are included for your first analysis.
 Methods are adapted from the following references:
 
 References:
+
 Chen-Bee, C.H., and Frostig, R.D. (1996). Variability and interhemispheric asymmetry of single-whisker functional representations in rat barrel cortex. Journal of neurophysiology 76, 884-894.
 Chen-Bee, C.H., Kwon, M.C., Masino, S.A., and Frostig, R.D. (1996). Areal extent quantification of functional representations using intrinsic signal optical imaging. Journal of neuroscience methods 68, 27-37.
 Chen-Bee, C.H., Polley, D.B., Brett-Green, B., Prakash, N., Kwon, M.C., and Frostig, R.D. (2000). Visualizing and quantifying evoked cortical activity assessed with intrinsic signal imaging. Journal of neuroscience methods 97, 157-173.
