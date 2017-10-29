@@ -11,7 +11,7 @@ Methods are adapted from the following references:
 
 ### How to use it:
 
-Run `ProcessResponseSingle.m` using MATLAB
+Run `ProcessResponseSingle.m` using MATLAB 2015 or later.
 
 
 ### References:
