@@ -9,7 +9,12 @@ Examples files are included for your first analysis.
 
 Methods are adapted from the following references:
 
-References:
+### How to use it:
+
+Run `ProcessResponseSingle.m` using MATLAB
+
+
+### References:
 
 Chen-Bee, C.H., and Frostig, R.D. (1996). Variability and interhemispheric asymmetry of single-whisker functional representations in rat barrel cortex. Journal of neurophysiology 76, 884-894.
 
